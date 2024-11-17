@@ -1,2 +1,3 @@
-# Data_Visualization_Portfolio
-This repository showcases my work in data visualization using Power BI, Tableau, Looker Studio, Python (Matplotlib, Seaborn, Plotly), and MS Excel. It includes dynamic dashboards, interactive reports, and custom visualizations to explore datasets, uncover insights, and support data-driven decisions.
+- # Data Visualization
+   - __Data Visualization using Tableau__
+      - [Google_Playstore_App_Review_Analysis](https://public.tableau.com/views/PlayStoreappTableau/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link):
