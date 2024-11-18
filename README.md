@@ -92,6 +92,11 @@ This project demonstrates a **Financial Sales Dashboard** built using **Power BI
    
    ![Alt Text](https://github.com/Kalpesh-Rajput/Data_Visualization_Portfolio/blob/main/Dashboard_images/tableau.png)
    
+# 7) Excel Dashboard Porfolio:
+
+   [Excel Dashboard](https://github.com/Kalpesh-Rajput/Data_Visualization_Portfolio/blob/main/Excel%20Dashboard/Excel_Portfolio.md) :
+  
+  
    
    ## Contact  
    For queries or suggestions, reach out to:  
